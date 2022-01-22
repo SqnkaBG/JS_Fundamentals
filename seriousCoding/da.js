@@ -1,3 +1,3 @@
-function da() {
-  return `4uvame li se`;
+function seriousCoding() {
+  return `how to code as pro`;
 }
