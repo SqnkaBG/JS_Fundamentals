@@ -20,4 +20,9 @@ function stringToNumbers(x) {
     : "9";
 }
 stringToNumbers("zero");
-fun
+function primeTrigger(x) {
+  for (let i = 1; i <= x; i++) {
+    return x !== 1 || x === 2 || x % i !== 0;
+  }
+}
+primeTrigger(23);
