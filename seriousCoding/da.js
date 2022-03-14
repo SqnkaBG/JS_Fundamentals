@@ -1,4 +1,4 @@
-function seriousCoding() {
-  return `how to code as pro`;
+function neDa() {
+  console.log(4);
 }
-seriousCoding();
+neDa();
